@@ -1,8 +1,8 @@
 # Deploying your app to the App Store
 
 ## Video how-to
-- Part 1: https://www.loom.com/share/4f315890f9d5426a88432d0d1f1febfc
-- Part 2: https://www.loom.com/share/027f077473a94c27b5d14d4172d80834
+- [📺 Part 1](https://www.loom.com/share/4f315890f9d5426a88432d0d1f1febfc)
+- [📺 Part 2](https://www.loom.com/share/027f077473a94c27b5d14d4172d80834)
 
 ## Dev environment setup
 

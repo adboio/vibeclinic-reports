@@ -1,7 +1,7 @@
 # Thanks for visiting the VibeClinic!
 
 ## Video summary
-https://www.loom.com/share/34016f56c5974f5aaec181cf48303cf2?sid=b255518f-a183-47d6-bd25-1986dc4b34ad
+[📺 Video Link](https://www.loom.com/share/34016f56c5974f5aaec181cf48303cf2?sid=b255518f-a183-47d6-bd25-1986dc4b34ad)
 
 ## Written summary
 Your app was built with [React](https://react.dev), a framework for building **web** apps. Unfortunately, React is not fully compatible with native mobile apps. This problem is usually solved by using a similar framework specifically designed for mobile apps, like [React Native](https://reactnative.dev).
